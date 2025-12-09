@@ -1,3 +1,15 @@
+# ------------------------------------------------------
+# Unnamed Data Science Textbook
+# Purpose: .gitignore file for workspace
+#
+# Author: Matthew C. Vanderbilt
+# Created: 25 November 2025
+# Updated: 25 November 2025
+# ------------------------------------------------------
+
+# Files customized with personal folders
+/.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
